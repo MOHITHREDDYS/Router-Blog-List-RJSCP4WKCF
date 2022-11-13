@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.blogList_container {
+  padding-left: 0px;
+  list-style-type: none;
+  margin-bottom: 0px;
+}
+
+@media screen and (min-width: 992px) {
+  .blogList_container {
+    max-width: 1000px;
+  }
+}
